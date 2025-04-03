@@ -1,6 +1,5 @@
 # TextUtils - Text Utility Application
 
-![TextUtils Demo](https://textutil-text-utility.netlify.app/)  
 **Live Demo:** [https://textutil-text-utility.netlify.app/](https://textutil-text-utility.netlify.app/)
 
 ## About The Project
@@ -45,25 +44,23 @@ TextUtils is a React-based text utility application that provides various tools 
    ```
 
    ---
-# Usage
 
-1: Enter your text in the textarea
+## Usage
 
-2: Use the buttons to perform various text operations:
+1. **Enter your text** in the textarea  
+2. **Use the buttons** to perform various text operations:  
+   - <kbd>Convert case</kbd> (uppercase/lowercase)  
+   - <kbd>Remove extra spaces</kbd>  
+   - <kbd>Copy text</kbd> to clipboard  
+   - <kbd>Clear</kbd> the textarea  
+3. **View text statistics**:  
+   - Word count  
+   - Character count  
+   - Reading time estimation  
+4. **Toggle theme**:  
+   - <kbd>Dark/Light mode</kbd> switch in navigation bar  
 
-    Convert case (uppercase/lowercase)
-
-    Remove extra spaces
-
-    Copy text to clipboard
-
-    Clear the textarea
-
-3: View text statistics (word count, character count, reading time)
-
-4: Toggle between dark and light mode using the switch in the navigation bar
-
-# File Structure
+## File Structure
 
 textutils/
 ├── src/
